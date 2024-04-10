@@ -5,9 +5,10 @@ This script automates the backup process for a MySQL database. It dumps the spec
 ## Prerequisites
 
 Before using this backup script, ensure you have the following prerequisites installed and configured:
-Bash shell environment
-MySQL database installed
-Proper permissions to access the MySQL database
+
+- Bash shell environment
+- MySQL database installed
+- Proper permissions to access the MySQL database
 
 ## Usage
 
